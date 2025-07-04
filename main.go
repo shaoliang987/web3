@@ -33,7 +33,7 @@ func main() {
 			1, 2, 3, 4, 5,
 		},
 		Slice: []interface{}{
-			1, "1", true,
+			1, "2", true,
 		},
 		Ptr: new(int),
 	}
