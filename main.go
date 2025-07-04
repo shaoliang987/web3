@@ -26,7 +26,7 @@ func main() {
 		},
 		Map: map[string]string{
 			"1": "1",
-			"2": "2",
+			"2": "3",
 		},
 		Ch: make(chan string),
 		Arr: [5]uint8{
